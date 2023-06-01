@@ -1,0 +1,41 @@
+.Card-width{
+ width: 900px;
+ margin:auto;
+}
+.btn-width{
+    width: 450px;
+}
+hr{
+    width:900px;
+    height: 2px;
+}
+hr{
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height:1px;
+    width:400px;
+    border: 0.5px solid gray;
+}
+a{
+    text-decoration: none;
+}
+.fb{
+    background-color: #0984e3;
+    color:white
+}
+.google{
+    background-color: #6c5ce7;
+    color:white
+}
+.fb:hover{
+    background-color:#74b9ff;
+    color:white
+}
+.google:hover{
+    background-color: #a29bfe;
+    color:white
+}
+.card:hover{
+    box-shadow: 0px 0px 10px 0px grey;
+}
